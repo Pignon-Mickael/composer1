@@ -1,0 +1,17 @@
+{
+    "name": "blueg/composer_1",
+    "description": "Exo Wcs",
+    "authors": [
+        {
+            "name": "Pignon-Mickael",
+            "email": "mickaelpignon17@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
